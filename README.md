@@ -1,11 +1,11 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot) - Clone
+## [@MyUploadsBot](https://telegram.dog/MyUploadsBot) - Clone
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **My Features**:
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+
 
 👉 Upload as file from any HTTP link
 
@@ -13,11 +13,11 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@MyUploadsBot](https://telegram.dog/myuploadsbot) without having to run anything on your own
 
 #### The Easy Way
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+
 
 #### The Hard Way
 
@@ -31,16 +31,16 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [Bots Updates](https://telegram.dog/Life_php)
+* [Life_php](https://telegram.dog/Life_php)
+* [Group](https://telegram.dog/LifePHPGroup)
 
 ## Credits, and Thanks to
 
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* [Mr_Enrico](https://telegram.dog/Mr_Enrico) for his [Pyrogram Library](https://github.com/khamdamoff)
+* [Mario_Games](https://telegram.dog/Mario_Gamez) for his [MyUploadsBot](https://telegram.dog/MyUploadsBot)
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@Mr_Enrico](https://telegram.dog/Mr_Enrico)
 
 #### LICENSE
 - GPLv3
